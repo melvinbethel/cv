@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 12pt;
+  padding: 20px;
+  color: #333333;
+  background-color: white;
+}
+
+body a {
+  text-decoration: none;
+}
+
+.profile-pic {
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 100%;
+  background-color: #efefef;
+}
+
+.profile-pic img {
+  width: 300px;
+  height: 300px;
+  margin: 0 0 0 -50px;
+}
+
+.contact {
+  padding: 20px;
+}
